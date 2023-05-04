@@ -1,0 +1,17 @@
+var 
+set1: array_of integers[4]// declaring the array and define its length.
+set2: array_of integers [5]// declaring  the array and define its length.
+i,j,pos,elt:INTEGER; //declaring the index for each element in the array.
+
+combinedSet = [...set1, ...set2]//combining the two sets into a single array
+
+var
+distinctElements = []// creating an empty array to store distinct elements
+
+//iterate through the combined set
+
+// If the element is not already in the distinct elements array, add it
+
+// Calculate the sum of the distinct elements using the reduce method
+
+// Output: 13

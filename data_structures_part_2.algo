@@ -1,0 +1,16 @@
+Procedure dot_product(v1, v2):
+
+Set ps to 0
+
+For i from 1 to length(v1) do the following:
+
+
+For j from 1 to n do the following:
+
+Read in v1[j] and v2[j]
+
+Set ps to dot_product(v1[j], v2[j])
+
+If ps is equal to 0, then print "The vectors are orthogonal"
+
+Else, print "The vectors are not orthogonal"
